@@ -1,0 +1,236 @@
+// !$*UTF8*$!
+{
+	12F2031E0EBB65E9003D7B6B /* RMMapViewDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 754}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{256, 2253}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = AdHoc;
+		activeExecutable = 4E646B2812C3103E002B6262 /* Unit Tests */;
+		activeTarget = B8C974130E8A19B2007D16AD /* MapView */;
+		codeSenseManager = 4E646B4912C3105B002B6262 /* Code sense */;
+		executables = (
+			4E646B2812C3103E002B6262 /* Unit Tests */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1120,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 315364044;
+			PBXWorkspaceStateSaveDate = 315364044;
+		};
+		perUserProjectItems = {
+			4E21656812CC137300A43433 /* PBXTextBookmark */ = 4E21656812CC137300A43433 /* PBXTextBookmark */;
+			4E21656912CC137300A43433 /* PBXTextBookmark */ = 4E21656912CC137300A43433 /* PBXTextBookmark */;
+			4E21656A12CC137300A43433 /* PBXTextBookmark */ = 4E21656A12CC137300A43433 /* PBXTextBookmark */;
+			4E646B5612C3115F002B6262 /* PBXTextBookmark */ = 4E646B5612C3115F002B6262 /* PBXTextBookmark */;
+			4E646B5712C3115F002B6262 /* PBXTextBookmark */ = 4E646B5712C3115F002B6262 /* PBXTextBookmark */;
+			4E646B9F12C312DC002B6262 /* PBXTextBookmark */ = 4E646B9F12C312DC002B6262 /* PBXTextBookmark */;
+			4E646BA012C312DC002B6262 /* PBXTextBookmark */ = 4E646BA012C312DC002B6262 /* PBXTextBookmark */;
+			4E646BA112C312DC002B6262 /* PBXTextBookmark */ = 4E646BA112C312DC002B6262 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 4E646B4812C3105B002B6262 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2B2BD43A0F79AA1B00B8B9A7 /* Doxygen-Documentation */ = {
+		activeExec = 0;
+	};
+	2BF3078E0F8AC5C0007014EE /* Unit Tests */ = {
+		activeExec = 0;
+		executables = (
+			4E646B2812C3103E002B6262 /* Unit Tests */,
+		);
+	};
+	386676D40F6B73AC00C56B17 /* MapView-framework */ = {
+		activeExec = 0;
+	};
+	4E21656812CC137300A43433 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B885ABB10EBB1332002206AB /* RMCloudMadeMapSource.m */;
+		name = "RMCloudMadeMapSource.m: 127";
+		rLen = 0;
+		rLoc = 4654;
+		rType = 0;
+		vrLen = 1612;
+		vrLoc = 3871;
+	};
+	4E21656912CC137300A43433 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8C9746A0E8A1A50007D16AD /* RMMapView.m */;
+		name = "RMMapView.m: 497";
+		rLen = 64;
+		rLoc = 16869;
+		rType = 0;
+		vrLen = 1757;
+		vrLoc = 16869;
+	};
+	4E21656A12CC137300A43433 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8C9746A0E8A1A50007D16AD /* RMMapView.m */;
+		name = "RMMapView.m: 571";
+		rLen = 0;
+		rLoc = 19935;
+		rType = 0;
+		vrLen = 2006;
+		vrLoc = 18186;
+	};
+	4E646B2812C3103E002B6262 /* Unit Tests */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "Unit Tests";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	4E646B4812C3105B002B6262 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	4E646B4912C3105B002B6262 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	4E646B5612C3115F002B6262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8F3FC630EA2E792004D8F85 /* RMMarker.m */;
+		name = "RMMarker.m: 33";
+		rLen = 0;
+		rLoc = 1463;
+		rType = 0;
+		vrLen = 1817;
+		vrLoc = 0;
+	};
+	4E646B5712C3115F002B6262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8F3FC620EA2E792004D8F85 /* RMMarker.h */;
+		name = "RMMarker.h: 53";
+		rLen = 0;
+		rLoc = 2196;
+		rType = 0;
+		vrLen = 1701;
+		vrLoc = 1285;
+	};
+	4E646B9F12C312DC002B6262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 12F2031E0EBB65E9003D7B6B /* RMMapViewDelegate.h */;
+		name = "RMMapViewDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 2253;
+		vrLoc = 256;
+	};
+	4E646BA012C312DC002B6262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8C974B60E8A280A007D16AD /* RMMapContents.h */;
+		name = "RMMapContents.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1992;
+		vrLoc = 0;
+	};
+	4E646BA112C312DC002B6262 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = B8C974B70E8A280A007D16AD /* RMMapContents.m */;
+		name = "RMMapContents.m: 41";
+		rLen = 0;
+		rLoc = 1690;
+		rType = 0;
+		vrLen = 1308;
+		vrLoc = 2156;
+	};
+	B885ABB10EBB1332002206AB /* RMCloudMadeMapSource.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 2483}}";
+			sepNavSelRange = "{4654, 0}";
+			sepNavVisRange = "{3871, 1612}";
+		};
+	};
+	B8C974130E8A19B2007D16AD /* MapView */ = {
+		activeExec = 0;
+	};
+	B8C9746A0E8A1A50007D16AD /* RMMapView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 9412}}";
+			sepNavSelRange = "{19935, 0}";
+			sepNavVisRange = "{18186, 2006}";
+		};
+	};
+	B8C974B60E8A280A007D16AD /* RMMapContents.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 3653}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1992}";
+		};
+	};
+	B8C974B70E8A280A007D16AD /* RMMapContents.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 14326}}";
+			sepNavSelRange = "{1690, 0}";
+			sepNavVisRange = "{2156, 1308}";
+		};
+	};
+	B8F3FC620EA2E792004D8F85 /* RMMarker.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 1430}}";
+			sepNavSelRange = "{2196, 0}";
+			sepNavVisRange = "{1285, 1701}";
+		};
+	};
+	B8F3FC630EA2E792004D8F85 /* RMMarker.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1298, 2678}}";
+			sepNavSelRange = "{1463, 0}";
+			sepNavVisRange = "{0, 1817}";
+		};
+	};
+}

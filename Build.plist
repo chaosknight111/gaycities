@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ProjectPath</key>
+	<string>/Users/rs/Documents/Dev/Clients/iPhone/Active/GayCities/GayCities/Gay Cities</string>
+	<key>Target</key>
+	<string>GayCities</string>
+	<key>InfoPlist</key>
+	<string>Info.plist</string>
+	<key>Configuration</key>
+	<string>AdHoc</string>
+	<key>ProvisioningProfile</key>
+	<string>/Users/rs/Documents/Dev/Clients/iPhone/Active/GayCities/GayCities/GayCities_AdHoc2012-2.mobileprovision</string>
+	<key>Certificate</key>
+	<string>iPhone Distribution: GayCities, Inc.</string>
+</dict>
+</plist>

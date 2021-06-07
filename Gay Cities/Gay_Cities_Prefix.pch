@@ -1,0 +1,18 @@
+//
+// Prefix header for all source files of the 'Gay Cities' target in the 'Gay Cities' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+    #import "Reachability.h"
+    #import "OCConstants.h"
+    #import "NSString+GCSBJSON.h"
+#endif
+
+
+#ifdef DEBUG
+#define GCLog(format, ...) NSLog(@"[%@] %@\n", [self class], [NSString stringWithFormat:format, ## __VA_ARGS__])
+#else
+#define GCLog(...) 
+#endif
